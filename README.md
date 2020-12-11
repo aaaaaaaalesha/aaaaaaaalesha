@@ -1,1 +1,1 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaalesha&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaalesha)](https://github.com/anuraghazra/github-readme-stats)
