@@ -5,6 +5,7 @@
 ![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
 
 ## Some of my Github Stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=aaaaaaaalesha&show_icons=true&include_all_commits=true)](https://github.com/aaaaaaaalesha/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaalesha&layout=compact)](https://github.com/aaaaaaaalesha/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaalesha&layout=compact" alt="Top Langs" height="150" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaaaaaaalesha&show_icons=true&include_all_commits=true" alt="Github Stats" height="150" width="300" >
+</p>
