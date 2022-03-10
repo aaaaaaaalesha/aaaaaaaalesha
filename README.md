@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome 👋 </h1>
 
 [![Github Badge](https://img.shields.io/badge/-aaaaaaaalesha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aaaaaaaalesha/)](https://www.github.com/aaaaaaaalesha/) 
-[![Mail Badge](https://img.shields.io/badge/-sks2311211@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sks2311211@mail.ru)](mailto:sks2311211@mail.ru) 
+[![Mail Badge](https://img.shields.io/badge/-alexandrov-iu8@mail.ru.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alexandrov-iu8@mail.ru)](mailto:alexandrov-iu8@mail.ru) 
 ![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
 
 ## Some of my Github Stats
