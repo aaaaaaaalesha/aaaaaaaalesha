@@ -10,6 +10,6 @@
 
 ## Some of my Github Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaalesha&layout=compact&theme=darcula&exclude_repo=python_visualization" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aaaaaaaalesha&show_icons=true&include_all_commits=true&theme=darcula" alt="Github Stats" height="165" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaalesha&layout=compact&theme=discord_old_blurple&exclude_repo=python_visualization" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaaaaaaalesha&show_icons=true&include_all_commits=true&theme=discord_old_blurple" alt="Github Stats" height="165" >
 </p>
