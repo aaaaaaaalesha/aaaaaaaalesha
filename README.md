@@ -1,7 +1,8 @@
 <h1 align="center"> Welcome Everybody👋 </h1>
 
-[![Github Badge](https://img.shields.io/badge/-aaaaaaaalesha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aaaaaaaalesha/)](https://www.github.com/aaaaaaaalesha/) 
 [![Mail Badge](https://img.shields.io/badge/-alexandrov–iu8@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alexandrov-iu8@mail.ru)](mailto:alexandrov-iu8@mail.ru) 
+[![Github Badge](https://img.shields.io/badge/-aaaaaaaalesha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aaaaaaaalesha/)](https://www.github.com/aaaaaaaalesha/) 
+
 ![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
