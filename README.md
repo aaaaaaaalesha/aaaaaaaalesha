@@ -11,7 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 August 2022 - To: 31 August 2022
+
+Total Time: 3 hrs 43 mins
+
+Python   3 hrs 43 mins   █████████████████████████   99.78 %
+C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
