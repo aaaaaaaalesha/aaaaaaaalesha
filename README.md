@@ -11,15 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 06 September 2022
+From: 29 August 2022 - To: 07 September 2022
 
-Total Time: 4 hrs 24 mins
-
-Python             3 hrs 45 mins   █████████████████████▒░░░   85.31 %
-Java               35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Text               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-C++                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python             6 hrs 21 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀   90.75 %
+Java               35 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.38 %
+Text               2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.52 %
+requirements.txt   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.23 %
+C++                0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.12 %
 ```
 
 <!--END_SECTION:waka-->
