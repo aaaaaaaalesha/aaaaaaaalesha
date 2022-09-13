@@ -1,8 +1,9 @@
 <h1 align="center"> Welcome Everybody👋 </h1>
 
-[![Mail Badge](https://img.shields.io/badge/-alexandrov–iu8@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alexandrov-iu8@mail.ru)](mailto:alexandrov-iu8@mail.ru) 
-[![Github Badge](https://img.shields.io/badge/-aaaaaaaalesha-grey?style=flat&logo=github&logoColor=white&link=https://github.com/aaaaaaaalesha/)](https://www.github.com/aaaaaaaalesha/) 
+[![Telegram](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/aaaaaaaalesha)
 ![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
+[![wakatime](https://wakatime.com/badge/user/0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2.svg)](https://wakatime.com/@0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2)
+![Hireable](https://badgen.net/badge/hireable/%E2%9C%94/blue)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,8 +16,6 @@ From: 29 August 2022 - To: 10 September 2022
 
 Python             6 hrs 21 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀   90.75 %
 Java               35 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.38 %
-Text               2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.52 %
-requirements.txt   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.23 %
 C++                0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.12 %
 ```
 
