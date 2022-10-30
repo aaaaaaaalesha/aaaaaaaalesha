@@ -3,7 +3,6 @@
 [![Telegram](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/aaaaaaaalesha)
 ![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
 [![wakatime](https://wakatime.com/badge/user/0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2.svg)](https://wakatime.com/@0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2)
-![Hireable](https://badgen.net/badge/hireable/%E2%9C%94/blue)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
