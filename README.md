@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 27 November 2022
+From: 29 August 2022 - To: 28 November 2022
 
 Python             81 hrs 11 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀   64.97 %
 Jupyter            18 hrs 43 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.98 %
