@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome Everybody👋 </h1>
+<h1 align="center">🐍 Welcome Everybody👋 </h1>
 
 <p align="center">
   <a href="#">
@@ -21,10 +21,6 @@
    </a> 
 </p>
 
-[![Telegram](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/aaaaaaaalesha)
-![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
-[![wakatime](https://wakatime.com/badge/user/0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2.svg)](https://wakatime.com/@0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2)
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -37,6 +33,10 @@ Other              6 hrs 52 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+[![Telegram](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/aaaaaaaalesha)
+![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
+[![wakatime](https://wakatime.com/badge/user/0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2.svg)](https://wakatime.com/@0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2)
 
 ## Some of my Github Stats
 <p>
