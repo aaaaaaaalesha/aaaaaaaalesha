@@ -4,10 +4,7 @@
 ![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
 [![wakatime](https://wakatime.com/badge/user/0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2.svg)](https://wakatime.com/@0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2)
 
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
-<p align="left">
+<p align="center">
   <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -17,11 +14,13 @@
  <a href="#">
     <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>  
+  <a href="https://www.hackerrank.com/sks2311211">
+    <img src="svg/dev/dev/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
+   </a>
+   <a href="https://leetcode.com/aaaaaaaalesha/">
+    <img src="svg/dev/dev/leetcode.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
+   </a> 
 </p>
-
-
-
-
 
 <!--START_SECTION:waka-->
 
