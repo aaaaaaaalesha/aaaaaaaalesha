@@ -38,9 +38,17 @@ Other              6 hrs 52 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-[![Telegram](https://badgen.net/badge/icon/Telegram?icon=telegram&label)](https://t.me/aaaaaaaalesha)
-![Progile Views](https://komarev.com/ghpvc/?username=aaaaaaaalesha)
-[![wakatime](https://wakatime.com/badge/user/0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2.svg)](https://wakatime.com/@0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2)
+<p align="center">  
+ <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=aaaaaaaalesha" alt="cpp" style="vertical-align:top; margin:6px 4px">
+  </a>
+ <a href="https://t.me/aaaaaaaalesha">
+    <img src="https://badgen.net/badge/icon/Telegram?icon=telegram&label" alt="telegram" style="vertical-align:top; margin:6px 4px">
+ </a>
+ <a href="https://wakatime.com/@0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2">
+    <img src="https://wakatime.com/badge/user/0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2.svg" alt="waka" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
 
 ## Some of my Github Stats
 <p>
