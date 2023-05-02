@@ -7,9 +7,9 @@
  <a href="#">
     <img src="svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:6px 4px">
   </a>  
- <a href="#">
+<!--  <a href="#">
     <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
-  </a>
+  </a> -->
   <a href="#">
     <img src="svg/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
   </a>
