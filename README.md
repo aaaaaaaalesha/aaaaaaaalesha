@@ -28,14 +28,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 01 May 2023
+From: 29 August 2022 - To: 02 May 2023
 
-Total Time: 396 hrs 31 mins
+Total Time: 404 hrs 38 mins
 
-Python                272 hrs 54 mins █████████████████▒░░░░░░░   68.82 %
-Jupyter               74 hrs 14 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.72 %
-HTML                  14 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Other                 11 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Python                    277 hrs 30 mins █████████████████░░░░░░░░   68.58 %
+Jupyter                   76 hrs 23 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+HTML                      14 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Other                     12 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
