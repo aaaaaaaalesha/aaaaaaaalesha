@@ -3,22 +3,22 @@
 <p align="center">
   <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
  <a href="#">
     <img src="svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:6px 4px">
   </a>  
-<!--  <a href="#">
-    <img src="svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
-  </a> -->
   <a href="#">
     <img src="svg/misc/web.svg" alt="web" style="vertical-align:top; margin:6px 4px">
   </a>
   <a href="https://www.hackerrank.com/sks2311211">
     <img src="svg/dev/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
    </a>
-   <a href="https://leetcode.com/aaaaaaaalesha/">
+<!--    <a href="https://leetcode.com/aaaaaaaalesha/">
     <img src="svg/dev/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
-   </a> 
+   </a>  -->
 </p>
 
 <p align="center">
