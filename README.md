@@ -16,13 +16,10 @@
   <a href="https://www.hackerrank.com/sks2311211">
     <img src="svg/dev/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
    </a>
-<!--    <a href="https://leetcode.com/aaaaaaaalesha/">
-    <img src="svg/dev/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
-   </a>  -->
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=750&color=C0C0C0&center=true&width=600&height=80&lines=Python+Developer+%F0%9F%90%8D+6th+year+student+at+BMSTU+%F0%9F%8E%93" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=750&color=C0C0C0&center=true&width=600&height=80&lines=Python+Software+Engineer+%F0%9F%90%8D+6th+year+BMSTU+student+%F0%9F%8E%93" alt="Typing SVG" /></a>
 </p>
 
 <!--START_SECTION:waka-->
