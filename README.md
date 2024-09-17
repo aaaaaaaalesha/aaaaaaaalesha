@@ -49,9 +49,3 @@ JavaScript                 15 hrs 18 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img src="https://wakatime.com/badge/user/0e21c3c1-25e0-47ee-9c0f-77ef4b6b71e2.svg" alt="waka" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
-
-## Some of my Github Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaaaalesha&layout=compact&theme=discord_old_blurple&exclude_repo=python_visualization" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aaaaaaaalesha&show_icons=true&include_all_commits=true&theme=discord_old_blurple" alt="Github Stats" height="165" >
-</p>
